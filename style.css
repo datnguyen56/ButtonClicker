@@ -1,0 +1,21 @@
+.container{
+    height: 700px;
+    background-image: linear-gradient(to bottom right, aqua, yellow);
+}
+
+#clicker{
+    color:blue;
+}
+
+.click{
+    text-align: center
+}
+
+p {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+span {
+    text-decoration: underline;
+}
